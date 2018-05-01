@@ -1,0 +1,114 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>をおかして、<ruby><rb>刑</rb><rt>けい</rt></ruby>の<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れておく<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "刑務所"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>盗</rb><rt>ぬす</rt></ruby>むこと。どろぼう。",
+          "hyouki": [
+            "盗み"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>や、<ruby><rb>人</rb><rt>ひと</rt></ruby>として<ruby><rb>守</rb><rt>まも</rt></ruby>らなければならないことに、そむいた<ruby><rb>行</rb><rt>おこな</rt></ruby>い。<ruby><rb>犯罪</rb><rt>はんざい</rt></ruby>。",
+          "hyouki": [
+            "罪"
+          ]
+        },
+        {
+          "def": "ばつ。",
+          "hyouki": [
+            "罪"
+          ]
+        },
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>いやりがなく、<ruby><rb>意地悪</rb><rt>いじわる</rt></ruby>なようす。",
+          "hyouki": [
+            "罪"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "はなれているものが<ruby><rb>結</rb><rt>むす</rt></ruby>ばれる。",
+          "hyouki": [
+            "つながる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>関係</rb><rt>かんけい</rt></ruby>がある。<ruby><rb>結</rb><rt>むす</rt></ruby>びつく。",
+          "hyouki": [
+            "つながる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>・<ruby><rb>四国</rb><rt>しこく</rt></ruby>・<ruby><rb>九州</rb><rt>きゅうしゅう</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>島々</rb><rt>しまじま</rt></ruby>がある。<ruby><rb>気候</rb><rt>きこう</rt></ruby>は<ruby><rb>温暖</rb><rt>おんだん</rt></ruby>で<ruby><rb>雨</rb><rt>あめ</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>ない。",
+          "hyouki": [
+            "瀬戸内海"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>後</rb><rt>うし</rt></ruby>ろに<ruby><rb>入</rb><rt>はい</rt></ruby>って<ruby><rb>見</rb><rt>み</rt></ruby>えなくなる。",
+          "hyouki": [
+            "隠れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人目</rb><rt>ひとめ</rt></ruby>につかないようにする。",
+          "hyouki": [
+            "隠れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>名前</rb><rt>なまえ</rt></ruby>が<ruby><rb>知</rb><rt>し</rt></ruby>られていない。",
+          "hyouki": [
+            "隠れる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>日本列島</rb><rt>にっぽんれっとう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、いちばん<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>島</rb><rt>しま</rt></ruby>。",
+          "hyouki": [
+            "本州"
+          ]
+        }
+      ]
+    }
+  }
+}

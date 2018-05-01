@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011422781000",
+  "news_prearranged_time": "2018-05-01 16:45:00",
+  "title": "東京オリンピックに出る国をイメージした着物のショー",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピックに<ruby>出<rt>で</rt></ruby>る<ruby>国<rt>くに</rt></ruby>をイメージした<ruby>着物<rt>きもの</rt></ruby>のショー",
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0000'>オリンピック</a>と<a href='javascript:void(0)' class='dicWin' id='id-0002'>パラリンピック</a>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180429/../20180429/K10011422781_1804292006_1804292021_01_02.jpg",
+  "news_web_movie_uri": "k10011422781_201804292026_201804292029.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011422781000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011422781000/k10011422781000.html"
+}

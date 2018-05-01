@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。スルメイカ・ヤリイカ・ホタルイカなど。<ruby><rb>胴</rb><rt>どう</rt></ruby>は<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>いふくろの<ruby><rb>形</rb><rt>かたち</rt></ruby>で、１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>足</rb><rt>あし</rt></ruby>が<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>ている。<ruby><rb>敵</rb><rt>てき</rt></ruby>にあうと、すみをはいてにげる。",
+          "hyouki": [
+            "烏賊"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>冷</rb><rt>つめ</rt></ruby>たい<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くとれる。",
+          "hyouki": [
+            "秋刀魚"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれ、<ruby><rb>海</rb><rt>うみ</rt></ruby>に<ruby><rb>下</rb><rt>くだ</rt></ruby>って<ruby><rb>育</rb><rt>そだ</rt></ruby>ち、<ruby><rb>寒流</rb><rt>かんりゅう</rt></ruby>にすむ<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>四</rb><rt>し</rt></ruby>、<ruby><rb>五</rb><rt>ご</rt></ruby><ruby><rb>年</rb><rt>ねん</rt></ruby>たつと、<ruby><rb>秋</rb><rt>あき</rt></ruby>、<ruby><rb>生</rb><rt>う</rt></ruby>まれた<ruby><rb>川</rb><rt>かわ</rt></ruby>をさかのぼって<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>産</rb><rt>う</rt></ruby>む。<ruby><rb>身</rb><rt>み</rt></ruby>だけでなく、<ruby><rb>卵</rb><rt>たまご</rt></ruby>も「すじこ」「イクラ」と<ruby><rb>呼</rb><rt>よ</rt></ruby>ばれて<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする。シャケ。アキアジ。",
+          "hyouki": [
+            "鮭"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>などをとること。",
+          "hyouki": [
+            "漁"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>・<ruby><rb>林業</rb><rt>りんぎょう</rt></ruby>・<ruby><rb>水産業</rb><rt>すいさんぎょう</rt></ruby>・<ruby><rb>畜産業</rb><rt>ちくさんぎょう</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>農水省</rb><rt>のうすいしょう</rt></ruby>。",
+          "hyouki": [
+            "農林水産省"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にすみ、<ruby><rb>貝</rb><rt>かい</rt></ruby>がらを<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。アサリ・サザエ・タニシなど。",
+          "hyouki": [
+            "貝"
+          ]
+        },
+        {
+          "def": "<ruby><rb>貝</rb><rt>かい</rt></ruby>がら。",
+          "hyouki": [
+            "貝"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        },
+        {
+          "def": "とることができる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>冷</rb><rt>つめ</rt></ruby>たい<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くとれる。",
+          "hyouki": [
+            "秋刀魚"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>商人</rb><rt>しょうにん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>市</rb><rt>いち</rt></ruby>。",
+          "hyouki": [
+            "市場"
+          ]
+        },
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>などの<ruby><rb>小売店</rb><rt>こうりてん</rt></ruby>が、<ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>所</rb><rt>しょ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>っている<ruby><rb>所</rb><rt>ところ</rt></ruby>。マーケット。",
+          "hyouki": [
+            "市場"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。",
+          "hyouki": [
+            "平均"
+          ]
+        },
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。",
+          "hyouki": [
+            "平均"
+          ]
+        }
+      ]
+    }
+  }
+}
