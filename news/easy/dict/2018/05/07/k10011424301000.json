@@ -1,0 +1,86 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>忍術</rb><rt>にんじゅつ</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。しのびの<ruby><rb>者</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "忍者"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が、１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>江戸</rb><rt>えど</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１８６７<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろびるまでの<ruby><rb>約</rb><rt>やく</rt></ruby>２６０<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>のために<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。「<ruby><rb>徳川時代</rb><rt>とくがわじだい</rt></ruby>」ともいう。",
+          "hyouki": [
+            "江戸時代"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>文字</rb><rt>もじ</rt></ruby>で<ruby><rb>書</rb><rt>か</rt></ruby>いたもの。<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>事務的</rb><rt>じむてき</rt></ruby>な<ruby><rb>書類</rb><rt>しょるい</rt></ruby>。",
+          "hyouki": [
+            "文書"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ねばりけの<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>の<ruby><rb>米</rb><rt>こめ</rt></ruby>。もちや<ruby><rb>赤飯</rb><rt>せきはん</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る。<ruby><rb>糯</rb><rt>もち</rt></ruby>。",
+          "hyouki": [
+            "糯米"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>にからみや<ruby><rb>香</rb><rt>かお</rt></ruby>りをつけるためのもの。コショウ・トウガラシなど。スパイス。",
+          "hyouki": [
+            "香辛料"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちに<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる、いろいろなしげき。そのために<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>や<ruby><rb>気分</rb><rt>きぶん</rt></ruby>が、ふだんと<ruby><rb>変</rb><rt>か</rt></ruby>わる。",
+          "hyouki": [
+            "ストレス"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>照</rb><rt>て</rt></ruby>らし<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>考</rb><rt>かんが</rt></ruby>えること。また、<ruby><rb>調</rb><rt>しら</rt></ruby>べたり<ruby><rb>考</rb><rt>かんが</rt></ruby>えたりするための<ruby><rb>助</rb><rt>たす</rt></ruby>けとすること。",
+          "hyouki": [
+            "参考"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>小麦</rb><rt>こむぎ</rt></ruby>の<ruby><rb>実</rb><rt>み</rt></ruby>をひいて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>粉</rb><rt>こな</rt></ruby>。うどん・パン・<ruby><rb>菓子</rb><rt>かし</rt></ruby>などに<ruby><rb>加工</rb><rt>かこう</rt></ruby>する。うどん<ruby><rb>粉</rb><rt>こ</rt></ruby>。メリケン<ruby><rb>粉</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "小麦粉"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>緊張</rb><rt>きんちょう</rt></ruby>しないで、のんびりと<ruby><rb>楽</rb><rt>らく</rt></ruby>にすること。",
+          "hyouki": [
+            "リラックス"
+          ]
+        }
+      ]
+    }
+  }
+}
