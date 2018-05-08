@@ -1,0 +1,77 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>したり、<ruby><rb>絵</rb><rt>え</rt></ruby>にかいたりして<ruby><rb>表</rb><rt>あらわ</rt></ruby>した<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "仏像"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "１００<ruby><rb>年</rb><rt>ねん</rt></ruby>を<ruby><rb>単位</rb><rt>たんい</rt></ruby>として<ruby><rb>数</rb><rt>かぞ</rt></ruby>える<ruby><rb>年代</rb><rt>ねんだい</rt></ruby>の<ruby><rb>数</rb><rt>かぞ</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>西暦</rb><rt>せいれき</rt></ruby>１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１００<ruby><rb>年</rb><rt>ねん</rt></ruby>までを<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>と<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶ。<ruby><rb>２１世紀</rb><rt>にじゅういっせいき</rt></ruby>は２００１<ruby><rb>年</rb><rt>ねん</rt></ruby>から２１００<ruby><rb>年</rb><rt>ねん</rt></ruby>まで。",
+          "hyouki": [
+            "世紀"
+          ]
+        },
+        {
+          "def": "<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>しかないようなもの。",
+          "hyouki": [
+            "世紀"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>には<ruby><rb>見</rb><rt>み</rt></ruby>えないが、<ruby><rb>物</rb><rt>もの</rt></ruby>をすかし<ruby><rb>通</rb><rt>とお</rt></ruby>す<ruby><rb>力</rb><rt>ちから</rt></ruby>の<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>放射</rb><rt>ほうしゃ</rt></ruby><ruby><rb>線</rb><rt>せん</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>内部</rb><rt>ないぶ</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べるのに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "エックス線","・",
+            "X線"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>いものを、はしから<ruby><rb>丸</rb><rt>まる</rt></ruby>める。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>いものを<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りにからみつける。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "ぐるぐるとまるく<ruby><rb>動</rb><rt>うご</rt></ruby>く。また、<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>回</rb><rt>まわ</rt></ruby>してしめる。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>囲</rb><rt>かこ</rt></ruby>む。",
+          "hyouki": [
+            "巻く"
+          ]
+        }
+      ]
+    }
+  }
+}

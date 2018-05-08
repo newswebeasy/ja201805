@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011429311000",
+  "news_prearranged_time": "2018-05-08 16:30:00",
+  "title": "ハワイ島にあるキラウエア火山で噴火が続く",
+  "title_with_ruby": "ハワイ<ruby>島<rt>とう</rt></ruby>にあるキラウエア<ruby>火山<rt>かざん</rt></ruby>で<ruby>噴火<rt>ふんか</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く",
+  "outline_with_ruby": "<p>アメリカのハワイ<ruby>州<rt>しゅう</rt></ruby>にあるハワイ<ruby>島<rt>とう</rt></ruby>で<ruby>今月<rt>こんげつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>、キラウエア<ruby>火山<rt>かざん</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>噴火<rt>ふんか</rt></ruby></a>しました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180507/../20180507/K10011429311_1805071143_1805071144_01_02.jpg",
+  "news_web_movie_uri": "k10011429311_201805071220_201805071221.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011429311000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011429311000/k10011429311000.html"
+}
