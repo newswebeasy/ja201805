@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011431381000",
+  "news_prearranged_time": "2018-05-09 17:00:00",
+  "title": "アメリカのトランプ大統領「イランにまた経済制裁を行う」",
+  "title_with_ruby": "アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>「イランにまた<ruby>経済制裁<rt>けいざいせいさい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う」",
+  "outline_with_ruby": "<p>２０１５<ruby>年<rt>ねん</rt></ruby>、イランは<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>核兵器<rt>かくへいき</rt></ruby></a>をすぐにつくることができないようにするという<ruby>約束<rt>やくそく</rt></ruby>をアメリカやフランス、イギリスなど６つの<ruby>国<rt>くに</rt></ruby>としました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180509/../20180509/K10011431381_1805090356_1805090358_01_03.jpg",
+  "news_web_movie_uri": "k10011431381_201805090356_201805090357.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011431381000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011431381000/k10011431381000.html"
+}

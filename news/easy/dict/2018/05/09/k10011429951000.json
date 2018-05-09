@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>人</rb><rt>ひと</rt></ruby>。おうさま。",
+          "hyouki": [
+            "王"
+          ]
+        },
+        {
+          "def": "そのことにいちばんすぐれていること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "王"
+          ]
+        },
+        {
+          "def": "<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>の<ruby><rb>王将</rb><rt>おうしょう</rt></ruby>。",
+          "hyouki": [
+            "王"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>や、お<ruby><rb>骨</rb><rt>こつ</rt></ruby>をうめる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、そのしるし。",
+          "hyouki": [
+            "墓"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "かくして、<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせないこと。かくしごと。ないしょ。",
+          "hyouki": [
+            "秘密"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "者"
+          ]
+        },
+        {
+          "def": "ものごと。ことがら。",
+          "hyouki": [
+            "者"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>によって<ruby><rb>遠</rb><rt>とお</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>にある<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>位置</rb><rt>いち</rt></ruby>や<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>をさぐる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>電波探知機</rb><rt>でんぱたんちき</rt></ruby>。",
+          "hyouki": [
+            "レーダー"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>や<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちを、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>でかたく<ruby><rb>信</rb><rt>しん</rt></ruby>じること。",
+          "hyouki": [
+            "自信"
+          ]
+        }
+      ]
+    }
+  }
+}

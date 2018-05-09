@@ -1,0 +1,38 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>城</rb><rt>しろ</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にある、<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>物見</rb><rt>ものみ</rt></ruby>やぐら。<ruby><rb>天守</rb><rt>てんしゅ</rt></ruby>。",
+          "hyouki": [
+            "天守閣"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>のうち、１９４１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>まで、<ruby><rb>太平洋地域</rb><rt>たいへいようちいき</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われた<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>と、アメリカ・イギリスなどの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>との<ruby><rb>戦</rb><rt>たたか</rt></ruby>いで、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>が<ruby><rb>敗</rb><rt>やぶ</rt></ruby>れて<ruby><rb>終</rb><rt>お</rt></ruby>わった。",
+          "hyouki": [
+            "太平洋戦争"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>鉄</rb><rt>てつ</rt></ruby>の<ruby><rb>棒</rb><rt>ぼう</rt></ruby>を<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れて、コンクリートで<ruby><rb>固</rb><rt>かた</rt></ruby>めたもの。<ruby><rb>建物</rb><rt>たてもの</rt></ruby>を<ruby><rb>造</rb><rt>つく</rt></ruby>るのに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "鉄筋コンクリート"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>大名</rb><rt>だいみょう</rt></ruby>などが、<ruby><rb>敵</rb><rt>てき</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>大</rb><rt>おお</rt></ruby>がかりな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "城"
+          ]
+        }
+      ]
+    }
+  }
+}
