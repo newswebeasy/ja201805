@@ -1,0 +1,112 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "きっぷ。<ruby><rb>券</rb><rt>けん</rt></ruby>。<ruby><rb>入場券</rb><rt>にゅうじょうけん</rt></ruby>・<ruby><rb>乗車券</rb><rt>じょうしゃけん</rt></ruby>・<ruby><rb>食券</rb><rt>しょっけん</rt></ruby>など。",
+          "hyouki": [
+            "チケット"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>飛</rb><rt>と</rt></ruby>ぶようにする。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>走</rb><rt>はし</rt></ruby>らせる。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>間</rb><rt>あいだ</rt></ruby>をぬいて、<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>言</rb><rt>い</rt></ruby>いふらす。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく…する。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>飛</rb><rt>と</rt></ruby>ぶようにする。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>走</rb><rt>はし</rt></ruby>らせる。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>間</rb><rt>あいだ</rt></ruby>をぬいて、<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>言</rb><rt>い</rt></ruby>いふらす。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく…する。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "激しい"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>程度</rb><rt>ていど</rt></ruby>がきつい。",
+          "hyouki": [
+            "激しい"
+          ]
+        }
+      ]
+    }
+  }
+}

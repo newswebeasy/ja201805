@@ -1,0 +1,46 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。",
+          "hyouki": [
+            "給料"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が<ruby><rb>病人</rb><rt>びょうにん</rt></ruby>を<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>する<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "診療所"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>を<ruby><rb>借</rb><rt>か</rt></ruby>りている<ruby><rb>人</rb><rt>ひと</rt></ruby>が、<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>主</rb><rt>ぬし</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>借</rb><rt>か</rt></ruby>り<ruby><rb>賃</rb><rt>ちん</rt></ruby>。",
+          "hyouki": [
+            "家賃"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。",
+          "hyouki": [
+            "無料"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>作品</rb><rt>さくひん</rt></ruby>などを、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>呼</rb><rt>よ</rt></ruby>びかけて<ruby><rb>集</rb><rt>あつ</rt></ruby>めること。",
+          "hyouki": [
+            "募集"
+          ]
+        }
+      ]
+    }
+  }
+}

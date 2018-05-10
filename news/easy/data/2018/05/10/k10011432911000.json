@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011432911000",
+  "news_prearranged_time": "2018-05-10 16:00:00",
+  "title": "事故で１２ｔのチョコレートが高速道路に流れる",
+  "title_with_ruby": "<ruby>事故<rt>じこ</rt></ruby>で１２ｔのチョコレートが<ruby>高速道路<rt>こうそくどうろ</rt></ruby>に<ruby>流<rt>なが</rt></ruby>れる",
+  "outline_with_ruby": "<p>ポーランドの<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>高速道路<rt>こうそくどうろ</rt></ruby></a>で<ruby>９日<rt>ここのか</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>液体<rt>えきたい</rt></ruby></a>のチョコレートを<ruby>運<rt>はこ</rt></ruby>んでいたタンクローリーの<ruby>事故<rt>じこ</rt></ruby>がありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180510/../20180510/K10011432911_1805100017_1805100038_01_02.jpg",
+  "news_web_movie_uri": "k10011432911_201805101118_201805101120.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011432911000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011432911000/k10011432911000.html"
+}
