@@ -1,0 +1,103 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>休</rb><rt>やす</rt></ruby>みの<ruby><rb>日</rb><rt>ひ</rt></ruby>でも<ruby><rb>祝日</rb><rt>しゅくじつ</rt></ruby>でもない<ruby><rb>日</rb><rt>ひ</rt></ruby>。ふつうの<ruby><rb>日</rb><rt>ひ</rt></ruby>。",
+          "hyouki": [
+            "平日"
+          ]
+        },
+        {
+          "def": "いつも。ふだん。",
+          "hyouki": [
+            "平日"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>がみんなで<ruby><rb>祝</rb><rt>いわ</rt></ruby>う<ruby><rb>日</rb><rt>ひ</rt></ruby>。",
+          "hyouki": [
+            "祝日"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>一年</rb><rt>いちねん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりのころ。<ruby><rb>十二月</rb><rt>じゅうにがつ</rt></ruby>の<ruby><rb>末</rb><rt>すえ</rt></ruby>。<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>暮</rb><rt>く</rt></ruby>れ。<ruby><rb>歳末</rb><rt>さいまつ</rt></ruby>。",
+          "hyouki": [
+            "年末"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>のはじめ。",
+          "hyouki": [
+            "年始"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新年</rb><rt>しんねん</rt></ruby>の<ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>。",
+          "hyouki": [
+            "年始"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。",
+          "hyouki": [
+            "減る"
+          ]
+        },
+        {
+          "def": "すく。",
+          "hyouki": [
+            "減る"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>貸</rb><rt>か</rt></ruby>したり、<ruby><rb>預</rb><rt>あず</rt></ruby>けたりしたお<ruby><rb>金</rb><rt>かね</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>して、ある<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>割合</rb><rt>わりあい</rt></ruby>で<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>取</rb><rt>と</rt></ruby>るお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>利息</rb><rt>りそく</rt></ruby>。",
+          "hyouki": [
+            "利子"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ためになること。<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つこと。",
+          "hyouki": [
+            "利益"
+          ]
+        },
+        {
+          "def": "もうけ。<ruby><rb>得</rb><rt>とく</rt></ruby>。",
+          "hyouki": [
+            "利益"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>入</rb><rt>い</rt></ruby>れかわること。かわり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "交代","・",
+            "交替"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>少</rb><rt>すく</rt></ruby>なくする。",
+          "hyouki": [
+            "減らす"
+          ]
+        }
+      ]
+    }
+  }
+}

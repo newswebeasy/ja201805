@@ -1,0 +1,170 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>車</rb><rt>くるま</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>通</rb><rt>とお</rt></ruby>り<ruby><rb>道</rb><rt>みち</rt></ruby>。",
+          "hyouki": [
+            "道路"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>や<ruby><rb>自転車</rb><rt>じてんしゃ</rt></ruby>などの、<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>の<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>にはめたゴムの<ruby><rb>輪</rb><rt>わ</rt></ruby>。",
+          "hyouki": [
+            "タイヤ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>れるように、<ruby><rb>立体交差</rb><rt>りったいこうさ</rt></ruby>にしたり、<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りを<ruby><rb>分</rb><rt>わ</rt></ruby>けたりした<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。ハイウエー。",
+          "hyouki": [
+            "高速道路"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。",
+          "hyouki": [
+            "直径"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>横</rb><rt>よこ</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。",
+          "hyouki": [
+            "幅"
+          ]
+        },
+        {
+          "def": "へだたり。<ruby><rb>開</rb><rt>ひら</rt></ruby>き。",
+          "hyouki": [
+            "幅"
+          ]
+        },
+        {
+          "def": "ゆとり。よゆう。",
+          "hyouki": [
+            "幅"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>道</rb><rt>みち</rt></ruby>の<ruby><rb>案内</rb><rt>あんない</rt></ruby>や<ruby><rb>交通</rb><rt>こうつう</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>のために、<ruby><rb>道路</rb><rt>どうろ</rt></ruby>にかかげてある<ruby><rb>標示板</rb><rt>ひょうじばん</rt></ruby>。",
+          "hyouki": [
+            "道路標識"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>曲</rb><rt>ま</rt></ruby>がること。また、<ruby><rb>曲</rb><rt>ま</rt></ruby>がっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "カーブ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>投手</rb><rt>とうしゅ</rt></ruby>の<ruby><rb>投</rb><rt>な</rt></ruby>げる<ruby><rb>球</rb><rt>たま</rt></ruby>が<ruby><rb>打者</rb><rt>だしゃ</rt></ruby>の<ruby><rb>近</rb><rt>ちか</rt></ruby>くで<ruby><rb>曲</rb><rt>ま</rt></ruby>がること。また、その<ruby><rb>球</rb><rt>たま</rt></ruby>。",
+          "hyouki": [
+            "カーブ"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>針金</rb><rt>はりがね</rt></ruby>。",
+          "hyouki": [
+            "ワイヤ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>電線</rb><rt>でんせん</rt></ruby>。",
+          "hyouki": [
+            "ワイヤ"
+          ]
+        },
+        {
+          "def": "ワイヤロープのこと。<ruby><rb>鋼鉄製</rb><rt>こうてつせい</rt></ruby>の<ruby><rb>太</rb><rt>ふと</rt></ruby>いつな。",
+          "hyouki": [
+            "ワイヤ"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>切</rb><rt>き</rt></ruby>ることができる。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "つながりがなくなる。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>が、なくなる。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "こわれる。<ruby><rb>破</rb><rt>やぶ</rt></ruby>れる。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>がよくて、てきぱき<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>横</rb><rt>よこ</rt></ruby>へそれる。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>足</rb><rt>た</rt></ruby>りない。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>終</rb><rt>お</rt></ruby>わる。",
+          "hyouki": [
+            "切れる"
+          ]
+        },
+        {
+          "def": "…することができる。",
+          "hyouki": [
+            "切れる"
+          ]
+        }
+      ]
+    }
+  }
+}
