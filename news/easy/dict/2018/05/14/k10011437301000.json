@@ -1,0 +1,164 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>破裂</rb><rt>はれつ</rt></ruby>すること。",
+          "hyouki": [
+            "爆発"
+          ]
+        },
+        {
+          "def": "おさえていた<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>ること。",
+          "hyouki": [
+            "爆発"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "ほりかえす。",
+          "hyouki": [
+            "起こす"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。",
+          "hyouki": [
+            "テロ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "イエス-キリストの<ruby><rb>教</rb><rt>おし</rt></ruby>えをもとにした<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。ヨーロッパの<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>に<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうに<ruby><rb>広</rb><rt>ひろ</rt></ruby>がっている。",
+          "hyouki": [
+            "キリスト教"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>親</rb><rt>おや</rt></ruby>。<ruby><rb>父</rb><rt>ちち</rt></ruby>。",
+          "hyouki": [
+            "父親"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>入</rb><rt>はい</rt></ruby>りこむ。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        },
+        {
+          "def": "ものごとにかかわる。<ruby><rb>関係</rb><rt>かんけい</rt></ruby>する。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "突っ込む"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>母</rb><rt>はは</rt></ruby>。",
+          "hyouki": [
+            "母親"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えをよいと<ruby><rb>認</rb><rt>みと</rt></ruby>めること。<ruby><rb>同意</rb><rt>どうい</rt></ruby>すること。",
+          "hyouki": [
+            "賛成"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。",
+          "hyouki": [
+            "イスラム教"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>すこと。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。また、<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>罪</rb><rt>つみ</rt></ruby>。",
+          "hyouki": [
+            "犯罪"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>を<ruby><rb>信</rb><rt>しん</rt></ruby>じること。また、<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>の<ruby><rb>教</rb><rt>おし</rt></ruby>え。",
+          "hyouki": [
+            "宗教"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。",
+          "hyouki": [
+            "戦う"
+          ]
+        },
+        {
+          "def": "わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "戦う"
+          ]
+        }
+      ]
+    }
+  }
+}

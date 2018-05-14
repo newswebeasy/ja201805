@@ -1,0 +1,40 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>訳</rb><rt>わけ</rt></ruby>ができない。<ruby><rb>大変</rb><rt>たいへん</rt></ruby>すまない。",
+          "hyouki": [
+            "申し訳ない"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>のほうへ<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "進める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>程度</rb><rt>ていど</rt></ruby>を<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "進める"
+          ]
+        },
+        {
+          "def": "ものごとを、はかどらせる。",
+          "hyouki": [
+            "進める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時計</rb><rt>とけい</rt></ruby>の<ruby><rb>針</rb><rt>はり</rt></ruby>を<ruby><rb>早</rb><rt>はや</rt></ruby>める。",
+          "hyouki": [
+            "進める"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>や、お<ruby><rb>骨</rb><rt>こつ</rt></ruby>をうめる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、そのしるし。",
+          "hyouki": [
+            "墓"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ナデシコのなかまで、<ruby><rb>春</rb><rt>はる</rt></ruby>から<ruby><rb>夏</rb><rt>なつ</rt></ruby>にかけて、<ruby><rb>赤</rb><rt>あか</rt></ruby>・<ruby><rb>白</rb><rt>しろ</rt></ruby>・ピンクなどの<ruby><rb>花</rb><rt>はな</rt></ruby>を<ruby><rb>咲</rb><rt>さ</rt></ruby>かせる<ruby><rb>草花</rb><rt>くさばな</rt></ruby>。<ruby><rb>母</rb><rt>はは</rt></ruby>の<ruby><rb>日</rb><rt>ひ</rt></ruby>のプレゼントに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "カーネーション"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "かおりのよい<ruby><rb>草</rb><rt>くさ</rt></ruby>や<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>葉</rb><rt>は</rt></ruby>の<ruby><rb>粉</rb><rt>こな</rt></ruby>を、<ruby><rb>線</rb><rt>せん</rt></ruby>のように<ruby><rb>細</rb><rt>ほそ</rt></ruby>く<ruby><rb>練</rb><rt>ね</rt></ruby>り<ruby><rb>固</rb><rt>かた</rt></ruby>めたもの。<ruby><rb>仏壇</rb><rt>ぶつだん</rt></ruby>などでたく。",
+          "hyouki": [
+            "線香"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>問</rb><rt>と</rt></ruby>い<ruby><rb>合</rb><rt>あ</rt></ruby>わせ、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>書</rb><rt>か</rt></ruby>いてもらって、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>調</rb><rt>しら</rt></ruby>べる<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。",
+          "hyouki": [
+            "アンケート"
+          ]
+        }
+      ]
+    }
+  }
+}
