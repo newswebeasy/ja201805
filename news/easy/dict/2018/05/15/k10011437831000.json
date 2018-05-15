@@ -1,0 +1,86 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ラグビーとサッカーをもとにして、アメリカで<ruby><rb>考</rb><rt>かんが</rt></ruby>えられた<ruby><rb>球技</rb><rt>きゅうぎ</rt></ruby>。１チーム１１<ruby><rb>人</rb><rt>にん</rt></ruby>が、<ruby><rb>楕円形</rb><rt>だえんけい</rt></ruby>のボールを<ruby><rb>持</rb><rt>も</rt></ruby>ったり、<ruby><rb>投</rb><rt>な</rt></ruby>げたり、けったりして<ruby><rb>敵</rb><rt>てき</rt></ruby>の<ruby><rb>陣地</rb><rt>じんち</rt></ruby>に<ruby><rb>持</rb><rt>も</rt></ruby>ちこみ<ruby><rb>得点</rb><rt>とくてん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。",
+          "hyouki": [
+            "アメリカンフットボール"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ラグビーなどで、ボールを<ruby><rb>持</rb><rt>も</rt></ruby>っている<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>にとびついて、じゃまをすること。",
+          "hyouki": [
+            "タックル"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ももと、すねのつなぎ<ruby><rb>目</rb><rt>め</rt></ruby>にある、<ruby><rb>関節</rb><rt>かんせつ</rt></ruby>の<ruby><rb>前側</rb><rt>まえがわ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "膝"
+          ]
+        },
+        {
+          "def": "すわったときの、ももの<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "膝"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>や<ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>感覚</rb><rt>かんかく</rt></ruby>がなくなり、<ruby><rb>自由</rb><rt>じゆう</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>かなくなる。",
+          "hyouki": [
+            "しびれる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "とがめないで<ruby><rb>済</rb><rt>す</rt></ruby>ませる。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "してもよいと<ruby><rb>認</rb><rt>みと</rt></ruby>める。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>聞</rb><rt>き</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気</rb><rt>き</rt></ruby>をゆるめる。<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>解</rb><rt>と</rt></ruby>ける。",
+          "hyouki": [
+            "許す"
+          ]
+        }
+      ]
+    }
+  }
+}
