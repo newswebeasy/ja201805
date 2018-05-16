@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>像</rb><rt>ぞう</rt></ruby>。",
+          "hyouki": [
+            "大仏"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>が、<ruby><rb>空気中</rb><rt>くうきちゅう</rt></ruby>の<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>や<ruby><rb>水</rb><rt>みず</rt></ruby>にふれて、<ruby><rb>変化</rb><rt>へんか</rt></ruby>してできたもの。",
+          "hyouki": [
+            "さび"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>消化</rb><rt>しょうか</rt></ruby>したあと、<ruby><rb>体外</rb><rt>たいがい</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>されるもの。<ruby><rb>大便</rb><rt>だいべん</rt></ruby>。",
+          "hyouki": [
+            "糞"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "かんで<ruby><rb>味</rb><rt>あじ</rt></ruby>わう<ruby><rb>菓子</rb><rt>かし</rt></ruby>。ガム。",
+          "hyouki": [
+            "チューインガム"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ]
+    }
+  }
+}

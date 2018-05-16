@@ -1,0 +1,112 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>道</rb><rt>みち</rt></ruby>を<ruby><rb>区切</rb><rt>くぎ</rt></ruby>って、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>歩</rb><rt>ある</rt></ruby>くところと<ruby><rb>決</rb><rt>き</rt></ruby>めてある<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>歩</rb><rt>ある</rt></ruby>く<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>人道</rb><rt>じんどう</rt></ruby>。",
+          "hyouki": [
+            "歩道"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>人目</rb><rt>ひとめ</rt></ruby>につく<ruby><rb>所</rb><rt>ところ</rt></ruby>に、<ruby><rb>店</rb><rt>みせ</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>いて、<ruby><rb>出</rb><rt>だ</rt></ruby>しておくもの。",
+          "hyouki": [
+            "看板"
+          ]
+        },
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>せかけ。",
+          "hyouki": [
+            "看板"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "いっしょにものごとをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>友達</rb><rt>ともだち</rt></ruby>。グループ。",
+          "hyouki": [
+            "仲間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>の<ruby><rb>同</rb><rt>おな</rt></ruby>じもの。",
+          "hyouki": [
+            "仲間"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えたことや<ruby><rb>思</rb><rt>おも</rt></ruby>ったことを、ことば・<ruby><rb>身</rb><rt>み</rt></ruby>ぶり・<ruby><rb>文字</rb><rt>もじ</rt></ruby>・<ruby><rb>色</rb><rt>いろ</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>などで<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、その<ruby><rb>表</rb><rt>あらわ</rt></ruby>し<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "表現"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あとに<ruby><rb>残</rb><rt>のこ</rt></ruby>るようにする。<ruby><rb>余</rb><rt>あま</rt></ruby>す。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>使</rb><rt>つか</rt></ruby>わないでおく。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "あとにとどまらせる。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "のちの<ruby><rb>世</rb><rt>よ</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "すもうで、もちこたえてふん<ruby><rb>張</rb><rt>ば</rt></ruby>る。",
+          "hyouki": [
+            "残す"
+          ]
+        }
+      ]
+    }
+  }
+}
