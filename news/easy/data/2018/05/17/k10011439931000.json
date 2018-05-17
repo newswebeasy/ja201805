@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011439931000",
+  "news_prearranged_time": "2018-05-17 11:30:00",
+  "title": "サウジアラビアで女性に車を紹介するイベント",
+  "title_with_ruby": "サウジアラビアで<ruby>女性<rt>じょせい</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント",
+  "outline_with_ruby": "<p>サウジアラビアでは、<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>してはいけないことになっていました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180516/../20180516/K10011439931_1805160446_1805160447_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011439931000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011439931000/k10011439931000.html"
+}

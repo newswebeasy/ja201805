@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011439111000",
+  "news_prearranged_time": "2018-05-17 11:30:00",
+  "title": "日本のウイスキー　人気が高くなって足りなくなる",
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>のウイスキー　<ruby>人気<rt>にんき</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなって<ruby>足<rt>た</rt></ruby>りなくなる",
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'>ウイスキー</a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>人気<rt>にんき</rt></ruby></a>が<ruby>高<rt>たか</rt></ruby>くなっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180515/../20180515/K10011439111_1805151446_1805151449_01_02.jpg",
+  "news_web_movie_uri": "k10011439111_201805151605_201805151606.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011439111000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011439111000/k10011439111000.html"
+}
