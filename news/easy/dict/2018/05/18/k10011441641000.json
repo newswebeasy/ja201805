@@ -1,0 +1,148 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "歌手"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "激しい"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>程度</rb><rt>ていど</rt></ruby>がきつい。",
+          "hyouki": [
+            "激しい"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ローマ<ruby><rb>字</rb><rt>じ</rt></ruby>を、<ruby><rb>A</rb><rt>エー</rt></ruby>・<ruby><rb>B</rb><rt>ビー</rt></ruby>・<ruby><rb>C</rb><rt>シー</rt></ruby>…というふうに<ruby><rb>Z</rb><rt>ゼット</rt></ruby>まで<ruby><rb>順</rb><rt>じゅん</rt></ruby>に<ruby><rb>並</rb><rt>なら</rt></ruby>べたもの。２６<ruby><rb>文字</rb><rt>もじ</rt></ruby>ある。",
+          "hyouki": [
+            "アルファベット"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>考</rb><rt>かんが</rt></ruby>えなどを、ことばや<ruby><rb>表情</rb><rt>ひょうじょう</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>したり、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などにしたりする。",
+          "hyouki": [
+            "表す"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>考</rb><rt>かんが</rt></ruby>えたり<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かしたりするはたらきを<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>つところ。",
+          "hyouki": [
+            "脳"
+          ]
+        },
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>のはたらき。",
+          "hyouki": [
+            "脳"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となる<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "脳"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「リハビリテーション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。けがや<ruby><rb>病気</rb><rt>びょうき</rt></ruby>で<ruby><rb>歩</rb><rt>ある</rt></ruby>けなくなったり、<ruby><rb>動</rb><rt>うご</rt></ruby>かなくなったりした<ruby><rb>体</rb><rt>からだ</rt></ruby>を、もとにもどすための<ruby><rb>訓練</rb><rt>くんれん</rt></ruby>。",
+          "hyouki": [
+            "リハビリ"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "うしろ。",
+          "hyouki": [
+            "後"
+          ]
+        },
+        {
+          "def": "のち。あと。",
+          "hyouki": [
+            "後"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>顔</rb><rt>かお</rt></ruby>や<ruby><rb>体</rb><rt>からだ</rt></ruby>をそのほうへ<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "向く"
+          ]
+        },
+        {
+          "def": "そのほうに<ruby><rb>面</rb><rt>めん</rt></ruby>している。",
+          "hyouki": [
+            "向く"
+          ]
+        },
+        {
+          "def": "うまく<ruby><rb>合</rb><rt>あ</rt></ruby>う。<ruby><rb>適</rb><rt>てき</rt></ruby>している。",
+          "hyouki": [
+            "向く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "向く"
+          ]
+        },
+        {
+          "def": "あるほうへ<ruby><rb>進</rb><rt>すす</rt></ruby>む。",
+          "hyouki": [
+            "向く"
+          ]
+        }
+      ]
+    }
+  }
+}

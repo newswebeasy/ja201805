@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。",
+          "hyouki": [
+            "競り売り"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>身分</rb><rt>みぶん</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>家</rb><rt>いえ</rt></ruby>がらや<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "貴族"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>物語</rb><rt>ものがたり</rt></ruby>や<ruby><rb>詩</rb><rt>し</rt></ruby>、また<ruby><rb>絵</rb><rt>え</rt></ruby>・<ruby><rb>陶器</rb><rt>とうき</rt></ruby>などの<ruby><rb>作品</rb><rt>さくひん</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "作者"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>など、<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>として<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのある<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。<ruby><rb>美術作品</rb><rt>びじゅつさくひん</rt></ruby>。",
+          "hyouki": [
+            "美術品"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "１００<ruby><rb>年</rb><rt>ねん</rt></ruby>を<ruby><rb>単位</rb><rt>たんい</rt></ruby>として<ruby><rb>数</rb><rt>かぞ</rt></ruby>える<ruby><rb>年代</rb><rt>ねんだい</rt></ruby>の<ruby><rb>数</rb><rt>かぞ</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>西暦</rb><rt>せいれき</rt></ruby>１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１００<ruby><rb>年</rb><rt>ねん</rt></ruby>までを<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>と<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶ。<ruby><rb>２１世紀</rb><rt>にじゅういっせいき</rt></ruby>は２００１<ruby><rb>年</rb><rt>ねん</rt></ruby>から２１００<ruby><rb>年</rb><rt>ねん</rt></ruby>まで。",
+          "hyouki": [
+            "世紀"
+          ]
+        },
+        {
+          "def": "<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>しかないようなもの。",
+          "hyouki": [
+            "世紀"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>をかくことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>絵</rb><rt>え</rt></ruby>かき。",
+          "hyouki": [
+            "画家"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>に<ruby><rb>色</rb><rt>いろ</rt></ruby>をつけるために<ruby><rb>使</rb><rt>つか</rt></ruby>うもの。<ruby><rb>水彩</rb><rt>すいさい</rt></ruby><ruby><rb>絵</rb><rt>え</rt></ruby>の<ruby><rb>具</rb><rt>ぐ</rt></ruby>や<ruby><rb>油</rb><rt>あぶら</rt></ruby><ruby><rb>絵</rb><rt>え</rt></ruby>の<ruby><rb>具</rb><rt>ぐ</rt></ruby>などがある。",
+          "hyouki": [
+            "絵の具"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}

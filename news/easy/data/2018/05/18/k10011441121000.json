@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011441121000",
+  "news_prearranged_time": "2018-05-18 11:30:00",
+  "title": "オークションで買った絵はレンブラントがかいた絵だった",
+  "title_with_ruby": "オークションで<ruby>買<rt>か</rt></ruby>った<ruby>絵<rt>え</rt></ruby>はレンブラントがかいた<ruby>絵<rt>え</rt></ruby>だった",
+  "outline_with_ruby": "<p>おととし、イギリスの<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>貴族<rt>きぞく</rt></ruby></a>が<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby><ruby>持<rt>も</rt></ruby>っていた<ruby>絵<rt>え</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0000'>オークション</a>に<ruby>出<rt>で</rt></ruby>ました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180517/../20180517/K10011441121_1805170519_1805170526_01_03.jpg",
+  "news_web_movie_uri": "k10011441121_201805170519_201805170526.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011441121000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011441121000/k10011441121000.html"
+}
