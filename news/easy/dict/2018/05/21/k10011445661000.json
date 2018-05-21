@@ -1,0 +1,130 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>女性</rb><rt>じょせい</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>。クイーン。",
+          "hyouki": [
+            "女王"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>子</rb><rt>こ</rt></ruby>ども。",
+          "hyouki": [
+            "孫"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>着</rb><rt>き</rt></ruby>る<ruby><rb>礼服</rb><rt>れいふく</rt></ruby>。",
+          "hyouki": [
+            "ドレス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>洋服</rb><rt>ようふく</rt></ruby>。",
+          "hyouki": [
+            "ドレス"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を）かわいがる。かわいく<ruby><rb>思</rb><rt>おも</rt></ruby>う。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。",
+          "hyouki": [
+            "愛"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を）<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>にする。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。",
+          "hyouki": [
+            "愛"
+          ]
+        },
+        {
+          "def": "<ruby><rb>好</rb><rt>この</rt></ruby>む。おもしろいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "愛"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>りかえること。<ruby><rb>取</rb><rt>と</rt></ruby>りかわすこと。",
+          "hyouki": [
+            "交換"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>を<ruby><rb>乗</rb><rt>の</rt></ruby>せて、<ruby><rb>馬</rb><rt>うま</rt></ruby>に<ruby><rb>引</rb><rt>ひ</rt></ruby>かせる<ruby><rb>車</rb><rt>くるま</rt></ruby>。",
+          "hyouki": [
+            "馬車"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "その<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>血筋</rb><rt>ちすじ</rt></ruby>の、いちばんはじめの<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "先祖"
+          ]
+        },
+        {
+          "def": "<ruby><rb>今</rb><rt>いま</rt></ruby>の<ruby><rb>家族</rb><rt>かぞく</rt></ruby>より<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>代</rb><rt>だい</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。",
+          "hyouki": [
+            "先祖"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>人類</rb><rt>じんるい</rt></ruby>。",
+          "hyouki": [
+            "人間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>がら。<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>。",
+          "hyouki": [
+            "人間"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>が<ruby><rb>黒</rb><rt>くろ</rt></ruby>い<ruby><rb>色</rb><rt>いろ</rt></ruby>をしている<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。<ruby><rb>黒人</rb><rt>こくじん</rt></ruby>。",
+          "hyouki": [
+            "黒色人種"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>王</rb><rt>おう</rt></ruby>や<ruby><rb>女王</rb><rt>じょおう</rt></ruby>の<ruby><rb>一家</rb><rt>いっか</rt></ruby>。",
+          "hyouki": [
+            "王室"
+          ]
+        }
+      ]
+    }
+  }
+}

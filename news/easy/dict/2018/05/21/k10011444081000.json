@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>縦</rb><rt>たて</rt></ruby>・<ruby><rb>横</rb><rt>よこ</rt></ruby>に１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>板</rb><rt>いた</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で、２０<ruby><rb>枚</rb><rt>まい</rt></ruby>ずつのこまを<ruby><rb>動</rb><rt>うご</rt></ruby>かし、<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>るゲーム。",
+          "hyouki": [
+            "将棋"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。",
+          "hyouki": [
+            "段"
+          ]
+        },
+        {
+          "def": "かいだん。",
+          "hyouki": [
+            "段"
+          ]
+        },
+        {
+          "def": "やり<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "段"
+          ]
+        },
+        {
+          "def": "<ruby><rb>剣道</rb><rt>けんどう</rt></ruby>、<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>などの、<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>す<ruby><rb>位</rb><rt>くらい</rt></ruby>。",
+          "hyouki": [
+            "段"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>や<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>などをつけて<ruby><rb>並</rb><rt>なら</rt></ruby>べること。",
+          "hyouki": [
+            "ランク"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        },
+        {
+          "def": "「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。",
+          "hyouki": [
+            "スピード"
+          ]
+        }
+      ]
+    }
+  }
+}
