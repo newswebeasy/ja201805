@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011446971000",
+  "news_prearranged_time": "2018-05-22 15:30:00",
+  "title": "ハワイ島で火山の噴火が続く　溶岩で男性がけがをする",
+  "title_with_ruby": "ハワイ<ruby>島<rt>とう</rt></ruby>で<ruby>火山<rt>かざん</rt></ruby>の<ruby>噴火<rt>ふんか</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く　<ruby>溶岩<rt>ようがん</rt></ruby>で<ruby>男性<rt>だんせい</rt></ruby>がけがをする",
+  "outline_with_ruby": "<p>アメリカのハワイ<ruby>州<rt>しゅう</rt></ruby>にあるハワイ<ruby>島<rt>とう</rt></ruby>で、<ruby>今月<rt>こんげつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>からキラウエア<ruby>火山<rt>かざん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>噴火<rt>ふんか</rt></ruby></a>が<ruby>続<rt>つづ</rt></ruby>いています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180521/../20180521/K10011446971_1805211624_1805211631_01_02.jpg",
+  "news_web_movie_uri": "k10011446971_201805211705_201805211707.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011446971000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011446971000/k10011446971000.html"
+}

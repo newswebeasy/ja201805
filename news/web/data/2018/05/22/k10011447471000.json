@@ -49,7 +49,20 @@
       "duration": 68
     }
   ],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/contents/ohabiz/2018_0411.html",
+      "title": "画像認識で注目！ 中国AIベンチャー",
+      "time": "おはBiz キーワード解説 4月11日",
+      "datetime": "2018-04-11"
+    },
+    {
+      "link": "https://www.nhk.or.jp/kokusaihoudou/catch/archive/2018/02/0226.html",
+      "title": "中国 顔認証技術で監視強化",
+      "time": "キャッチ！世界のトップニュース 2月26日",
+      "datetime": "2018-02-26"
+    }
+  ],
   "word": [
     {
       "link": "word/0000009.html",

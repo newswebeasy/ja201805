@@ -55,19 +55,22 @@
       "iconPath": "html/20180520/K10011445871_1805201342_1805201343_02_01.jpg",
       "video": "",
       "duration": 0
-    },
-    {
-      "link": "html/20180514/k10011437521000.html",
-      "title": "カンヌ映画祭 是枝裕和監督の「万引き家族」上映",
-      "date": "5月14日  11時17分",
-      "datetime": "2018-05-14T11:17",
-      "imgPath": "html/20180514/K10011437521_1805141056_1805141117_01_02.jpg",
-      "iconPath": "html/20180514/K10011437521_1805141056_1805141117_02_01.jpg",
-      "video": "",
-      "duration": 0
     }
   ],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011445651000/k10011445651000.html",
+      "title": "カンヌ映画祭 是枝監督がいちばんすばらしい賞をもらう",
+      "time": "NEWSWEB EASY 5月22日",
+      "datetime": "2018-05-22"
+    },
+    {
+      "link": "http://www.nhk.or.jp/kaisetsu-blog/100/297843.html",
+      "title": "「２１年ぶりパルムドール受賞 理由と意義」（時論公論）",
+      "time": "解説委員室ブログ 5月21日",
+      "datetime": "2018-05-21"
+    }
+  ],
   "word": [
     {
       "link": "word/0000022.html",

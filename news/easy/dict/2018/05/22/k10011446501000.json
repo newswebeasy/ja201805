@@ -1,0 +1,52 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "イエス-キリストの<ruby><rb>教</rb><rt>おし</rt></ruby>えをもとにした<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。ヨーロッパの<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>に<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうに<ruby><rb>広</rb><rt>ひろ</rt></ruby>がっている。",
+          "hyouki": [
+            "キリスト教"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ローマ<ruby><rb>法王</rb><rt>ほうおう</rt></ruby>。ローマカトリック<ruby><rb>教会</rb><rt>きょうかい</rt></ruby>の、いちばん<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>教皇</rb><rt>きょうこう</rt></ruby>。",
+          "hyouki": [
+            "法王"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>位</rb><rt>くらい</rt></ruby>。<ruby><rb>身分</rb><rt>みぶん</rt></ruby>。",
+          "hyouki": [
+            "地位"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>。",
+          "hyouki": [
+            "地位"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地域"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。",
+          "hyouki": [
+            "トップ"
+          ]
+        }
+      ]
+    }
+  }
+}

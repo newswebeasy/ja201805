@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011445651000",
+  "news_prearranged_time": "2018-05-22 11:30:00",
+  "title": "カンヌ映画祭　是枝監督がいちばんすばらしい賞をもらう",
+  "title_with_ruby": "カンヌ<ruby>映画祭<rt>えいがさい</rt></ruby>　<ruby>是枝<rt>これえだ</rt></ruby><ruby>監督<rt>かんとく</rt></ruby>がいちばんすばらしい<ruby>賞<rt>しょう</rt></ruby>をもらう",
+  "outline_with_ruby": "<p>フランスで、<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>映画<rt>えいが</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'>イベント</a>「カンヌ<ruby>映画祭<rt>えいがさい</rt></ruby>」がありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180520/../20180520/K10011445651_1805200511_1805200514_01_03.jpg",
+  "news_web_movie_uri": "k10011445651_201805201224_201805201225.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011445651000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011445651000/k10011445651000.html"
+}
