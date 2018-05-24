@@ -1,0 +1,106 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "１１<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>２</rb><rt>に</rt></ruby>チームが、<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、ボールを<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにけりこんで<ruby><rb>得点</rb><rt>とくてん</rt></ruby>をきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。フットボール。",
+          "hyouki": [
+            "サッカー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "サッカーやラグビーで、ボールをけりながら、<ruby><rb>進</rb><rt>すす</rt></ruby>むこと。",
+          "hyouki": [
+            "ドリブル"
+          ]
+        },
+        {
+          "def": "バスケットボールやハンドボールで、ボールを<ruby><rb>手</rb><rt>て</rt></ruby>でつきながら<ruby><rb>進</rb><rt>すす</rt></ruby>むこと。",
+          "hyouki": [
+            "ドリブル"
+          ]
+        },
+        {
+          "def": "バレーボールで、<ruby><rb>一人</rb><rt>ひとり</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>がボールに、<ruby><rb>続</rb><rt>つづ</rt></ruby>けて<ruby><rb>二度</rb><rt>にど</rt></ruby>ふれる<ruby><rb>反則</rb><rt>はんそく</rt></ruby>。",
+          "hyouki": [
+            "ドリブル"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>試験</rb><rt>しけん</rt></ruby>などに<ruby><rb>合格</rb><rt>ごうかく</rt></ruby>すること。",
+          "hyouki": [
+            "パス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>順番</rb><rt>じゅんばん</rt></ruby>をぬかすこと。",
+          "hyouki": [
+            "パス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>球技</rb><rt>きゅうぎ</rt></ruby>などで、ボールを<ruby><rb>味方</rb><rt>みかた</rt></ruby>に<ruby><rb>送</rb><rt>おく</rt></ruby>ること。",
+          "hyouki": [
+            "パス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>定期券</rb><rt>ていきけん</rt></ruby>。",
+          "hyouki": [
+            "パス"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。",
+          "hyouki": [
+            "ワールドカップ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。",
+          "hyouki": [
+            "優勝"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "スポーツや<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>などが、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>に<ruby><rb>好</rb><rt>す</rt></ruby>きな<ruby><rb>人</rb><rt>ひと</rt></ruby>。または、ある<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>や、<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>などを<ruby><rb>熱心</rb><rt>ねっしん</rt></ruby>に<ruby><rb>応援</rb><rt>おうえん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。フアン。",
+          "hyouki": [
+            "ファン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>扇風機</rb><rt>せんぷうき</rt></ruby>。<ruby><rb>送風機</rb><rt>そうふうき</rt></ruby>。<ruby><rb>換気扇</rb><rt>かんきせん</rt></ruby>。",
+          "hyouki": [
+            "ファン"
+          ]
+        }
+      ]
+    }
+  }
+}
