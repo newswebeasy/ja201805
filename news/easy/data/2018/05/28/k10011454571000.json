@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011454571000",
+  "news_prearranged_time": "2018-05-28 15:30:00",
+  "title": "ＡＩスピーカーが命令されたと間違えて会話を録音して送る",
+  "title_with_ruby": "ＡＩスピーカーが<ruby>命令<rt>めいれい</rt></ruby>されたと<ruby>間違<rt>まちが</rt></ruby>えて<ruby>会話<rt>かいわ</rt></ruby>を<ruby>録音<rt>ろくおん</rt></ruby>して<ruby>送<rt>おく</rt></ruby>る",
+  "outline_with_ruby": "<p>ＡＩスピーカーは、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えるコンピューターのＡＩを<ruby>使<rt>つか</rt></ruby>って<ruby>人<rt>ひと</rt></ruby>と<ruby>話<rt>はなし</rt></ruby>をして、インターネットで<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>情報<rt>じょうほう</rt></ruby></a>を<ruby>調<rt>しら</rt></ruby>べたり、テレビをつけたりすることができます。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180527/../20180527/K10011454571_1805270737_1805270742_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011454571000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011454571000/k10011454571000.html"
+}
