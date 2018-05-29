@@ -1,0 +1,136 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>歩</rb><rt>ある</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>に<ruby><rb>車道</rb><rt>しゃどう</rt></ruby>をわたれるように、<ruby><rb>道路</rb><rt>どうろ</rt></ruby>にしるしをつけた<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "横断歩道"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "はじきとばす。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>除</rb><rt>のぞ</rt></ruby>く。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>にわたす<ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>を<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>字</rb><rt>じ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くとき、<ruby><rb>線</rb><rt>せん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりをはらい<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。",
+          "hyouki": [
+            "逮捕"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>道路</rb><rt>どうろ</rt></ruby>や<ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>などで、<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>・<ruby><rb>危険</rb><rt>きけん</rt></ruby>・<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>などを<ruby><rb>合図</rb><rt>あいず</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>信号</rb><rt>しんごう</rt></ruby>。シグナル。",
+          "hyouki": [
+            "信号機"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>っ<ruby><rb>手</rb><rt>て</rt></ruby>。にぎり。",
+          "hyouki": [
+            "ハンドル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>でにぎって、<ruby><rb>機械</rb><rt>きかい</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすもの。",
+          "hyouki": [
+            "ハンドル"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>円</rb><rt>えん</rt></ruby>をかくように<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "回す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>順</rb><rt>じゅん</rt></ruby>に<ruby><rb>送</rb><rt>おく</rt></ruby>る。",
+          "hyouki": [
+            "回す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>とするところへふり<ruby><rb>向</rb><rt>む</rt></ruby>ける。さし<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "回す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>くようにする。",
+          "hyouki": [
+            "回す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>届</rb><rt>とど</rt></ruby>かせる。",
+          "hyouki": [
+            "回す"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "あることがらについて、<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などが<ruby><rb>許</rb><rt>ゆる</rt></ruby>しをあたえること。",
+          "hyouki": [
+            "免許"
+          ]
+        },
+        {
+          "def": "<ruby><rb>芸</rb><rt>げい</rt></ruby>ごとで、<ruby><rb>先生</rb><rt>せんせい</rt></ruby>が<ruby><rb>弟子</rb><rt>でし</rt></ruby>にあたえる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "免許"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>考</rb><rt>かんが</rt></ruby>えたり<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かしたりするはたらきを<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>つところ。",
+          "hyouki": [
+            "脳"
+          ]
+        },
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>のはたらき。",
+          "hyouki": [
+            "脳"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となる<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "脳"
+          ]
+        }
+      ]
+    }
+  }
+}

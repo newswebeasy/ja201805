@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011456321000",
+  "news_prearranged_time": "2018-05-29 16:35:00",
+  "title": "９０歳が運転する車の事故で１人が亡くなって３人がけが",
+  "title_with_ruby": "９０<ruby>歳<rt>さい</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>する<ruby>車<rt>くるま</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>で<ruby>１人<rt>ひとり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって３<ruby>人<rt>にん</rt></ruby>がけが",
+  "outline_with_ruby": "<p><ruby>神奈川県<rt>かながわけん</rt></ruby><ruby>茅ヶ崎<rt>ちがさき</rt></ruby><ruby>市<rt>し</rt></ruby>で２８<ruby>日<rt>にち</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>１１<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>車<rt>くるま</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>横断歩道<rt>おうだんほどう</rt></ruby></a>を<ruby>歩<rt>ある</rt></ruby>いていた<ruby>人<rt>ひと</rt></ruby>などを<a href='javascript:void(0)' class='dicWin' id='id-0001'>はねる</a><ruby>事故<rt>じこ</rt></ruby>がありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180528/../20180528/K10011456321_1805290509_1805290511_01_03.jpg",
+  "news_web_movie_uri": "k10011456321_201805290509_201805290510.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011456321000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011456321000/k10011456321000.html"
+}

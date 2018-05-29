@@ -18,7 +18,20 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011453801000/k10011453801000.html",
+      "title": "成田空港が外国人に観光地を紹介するウェブサイトを作る",
+      "time": "NEWSWEB EASY 5月29日",
+      "datetime": "2018-05-29"
+    },
+    {
+      "link": "http://www.nhk.or.jp/shutoken/net/report/20180511.html",
+      "title": "１０年に１度！お参りの見どころは 千葉県成田市",
+      "time": "首都圏ネットワーク・リポート 5月11日",
+      "datetime": "2018-05-11"
+    }
+  ],
   "word": [],
   "news_id": "k10011453801000",
   "yyyy": "2018",
