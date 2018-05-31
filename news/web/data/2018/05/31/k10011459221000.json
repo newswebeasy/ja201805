@@ -18,7 +18,20 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "//www3.nhk.or.jp/news/web_tokushu/2018_0126.html",
+      "title": "＃ＭｅＴｏｏのない社会へ",
+      "time": "WEB特集 1月26日",
+      "datetime": "2018-01-26"
+    },
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011459221000/k10011459221000.html",
+      "title": "アメリカ ピュリツァー賞はセクハラを伝えたニュース",
+      "time": "NEWSWEB EASY 5月31日",
+      "datetime": "2018-05-31"
+    }
+  ],
   "word": [
     {
       "link": "word/0000569.html",

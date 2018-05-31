@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011456971000/k10011456971000.html",
+      "title": "ペルーのナスカの近くで２５以上の地上絵が見つかる",
+      "time": "NEWSWEB EASY 5月31日",
+      "datetime": "2018-05-31"
+    }
+  ],
   "word": [],
   "news_id": "k10011456971000",
   "yyyy": "2018",
