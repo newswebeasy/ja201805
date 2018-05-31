@@ -1,0 +1,50 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "フィルムを<ruby><rb>使</rb><rt>つか</rt></ruby>わないで、<ruby><rb>写</rb><rt>うつ</rt></ruby>したものを<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>えて、<ruby><rb>記録</rb><rt>きろく</rt></ruby>できるようにしたカメラ。デジカメ。",
+          "hyouki": [
+            "デジタルカメラ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>。",
+          "hyouki": [
+            "白黒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>・<ruby><rb>映画</rb><rt>えいが</rt></ruby>などで、<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>だけの<ruby><rb>色</rb><rt>いろ</rt></ruby>のもの。",
+          "hyouki": [
+            "白黒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>善</rb><rt>ぜん</rt></ruby>と<ruby><rb>悪</rb><rt>あく</rt></ruby>。<ruby><rb>無罪</rb><rt>むざい</rt></ruby>と<ruby><rb>有罪</rb><rt>ゆうざい</rt></ruby>。",
+          "hyouki": [
+            "白黒"
+          ]
+        }
+      ]
+    }
+  }
+}
